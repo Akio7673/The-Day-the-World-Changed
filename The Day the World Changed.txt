@@ -19,7 +19,7 @@ V. 1.0.2T
 	Created plain text version for upload to github
 	Spaced out chapters
 V. 1.0.3T
-	Changed 1 occurrence of 'woke' to 'awoke' (line 211)
+	Changed 1 occurrence of 'woke' to 'awoke'
 
 ==Story==
 
